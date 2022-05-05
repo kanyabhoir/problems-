@@ -5,7 +5,7 @@ public class multiply{
         var c = 20;
         var a = 5;    
     
-        system.out.println("The sum of"+(a+c))
+        system.out.println("The sum of"+(a-c))
     }
 
 }
